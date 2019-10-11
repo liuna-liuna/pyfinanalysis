@@ -1,0 +1,9 @@
+D:\workspace\pyfinanalysis\pyfin\Scripts\python.exe D:/workspace/pyfinanalysis/pyfin/homework_w2.py
+1. 1^2+2^2+......+10^2 = 385
+
+2. 一个期限为两年的项目，初始投资为2000美元，预期在第1年年末产生800美元收益，第2年年末产生1600收益投资，该项目的内部收益率IRR = 12%。
+
+3. 某人贷款20000元购买汽车，年利率为6%，他需要在5年内进行每月的分期付款，每个月需要支付386.66元。
+
+
+Process finished with exit code 0
